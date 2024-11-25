@@ -5,6 +5,7 @@ Follow the steps below to set up the environment and install dependencies.
 Clone this repository:
 
 git clone https://github.com/Sube30/fall_detection_yolov8.git
+
 cd fall_detection_yolov8
 
 Create and activate a virtual environment (optional but recommended):
